@@ -1,5 +1,8 @@
-Project Title: Student Crud Operation using HTML,CSS, ReactJs, JSON, and NodeJs.
-I did the CRUD Operation using HTML,CSS, ReactJs,JSON, and NodeJs.
+Project Title: Student Crud Operation.
+
+I did the Student CRUD Operation using HTML,CSS, ReactJs,JSON, and NodeJs.
+
+Output:
 
 Display the Student Details:
 ![Screenshot (277)](https://github.com/Nssenthilkumar/student_sk_crud/assets/148614494/37a65df2-b47e-4e81-9fa6-93ba54ad0584)
